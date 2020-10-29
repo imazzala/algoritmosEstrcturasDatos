@@ -77,5 +77,3 @@ int merge(int arr[],int l,int m,int h)
     }
   }
   return 0;
->>>>>>> 52eaa6677ae18b7f8107a5f6a679f4e5d9bbf73b
-}
